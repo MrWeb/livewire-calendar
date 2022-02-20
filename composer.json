@@ -1,6 +1,6 @@
 {
-    "name": "asantibanez/livewire-calendar",
-    "description": "Laravel Livewire calendar component",
+    "name": "mrweb/livewire-calendar",
+    "description": "Laravel Livewire calendar component Laravel 9 compatible",
     "keywords": [
         "asantibanez",
         "livewire-calendar"
